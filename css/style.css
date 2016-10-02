@@ -1,0 +1,22 @@
+.font-super{
+	font-family: 'Lato', sans-serif;
+}
+
+.big-font{
+	font-size: 45px;
+}
+
+.thick{
+	background-color: #BCBBBB;
+	border: 0 none;
+	color: #BCBBBB;
+	height: 4px;
+}
+
+.featured{
+	color: #bcbcbc;
+}
+
+.header_picture{
+	padding-top: 20px;
+}
